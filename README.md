@@ -189,3 +189,139 @@
 </body>
 </html>
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 50px;
+}
+
+#hero {
+    background-color: #f2f2f2;
+}
+
+#hero h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+#hero a {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#hero a:hover {
+    background-color: #0056b3;
+}
+
+#features ul {
+    list-style-type: square;
+}
+
+#pricing table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#pricing th, #pricing td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 50px;
+}
+
+#hero {
+    background-color: #f2f2f2;
+}
+
+#hero h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+#hero a {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#hero a:hover {
+    background-color: #0056b3;
+}
+
+#features ul {
+    list-style-type: square;
+}
+
+#pricing table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#pricing th, #pricing td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
