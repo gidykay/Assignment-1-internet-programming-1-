@@ -189,6 +189,8 @@
 </body>
 </html>
 
+//css code
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -257,6 +259,9 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+//java code
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
